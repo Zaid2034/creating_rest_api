@@ -13,7 +13,7 @@ Before running the application, ensure you have the following installed:
 
 The API will be accessible at http://localhost:8080.
 
-API Endpoints
+# API Endpoints
 Get All Books
 Endpoint: GET /todos
 [
@@ -30,7 +30,7 @@ Endpoint: GET /todos
   ...
 ]
 
-Add New Book
+# Add New Book
 Endpoint: POST /todos
 
 Request Format:
@@ -38,7 +38,7 @@ Request Format:
   "title": "New Book",
   "author": "Author Name"
 }
-Update Book
+# Update Book
 Endpoint: PUT /todos/{id}
 
 Request Format:
