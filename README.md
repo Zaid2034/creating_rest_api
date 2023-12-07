@@ -4,13 +4,6 @@
 
 The Book Library Management System API provides endpoints to interact with book data. It's built using Kotlin and Retrofit for Android app integration.
 
-# Prerequisites
-
-Before running the application, ensure you have the following installed:
-- Java JDK
-- Kotlin
-- MySQL
-
 The API will be accessible at http://localhost:8080.
 
 # API Endpoints
