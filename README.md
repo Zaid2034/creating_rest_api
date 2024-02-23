@@ -4,8 +4,6 @@
 
 The Book Library Management System API provides endpoints to interact with book data. It's built using Kotlin and Retrofit for Android app integration.
 
-The API will be accessible at http://localhost:8080.
-
 # API Endpoints
 Get All Books
 Endpoint: GET /todos
